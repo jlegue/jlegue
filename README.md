@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jlegue
 - 👀 I’m interested in Digital Asset Management and scalable APIs.
-- 🌱 I’m currently learning OpenAPI 3.0
+- 🌱 I’m currently learning about Keycloak, OAuth and JWTs
 - 📫 How to reach me - connect via email using jay dot legue @ gmail dot com
 
 <!---
